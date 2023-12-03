@@ -1,12 +1,13 @@
 body {
-    background: rgb(158, 197, 209);
+    background-color: pink
   }
 
-header h1 {text-align: center; font-size: xx-large;text-decoration: underline;}
-header p {text-align:center; color: firebrick;font-size: x-large}
-section {text-align: left;margin-right: 60%;}
+header h1 {color:black;text-align: center; font-size: xx-large;text-decoration: underline;}
+header p {text-align:center;background-color: black;margin-left: 40%; margin-right: 40%; color: white;font-size: x-large}
+section {margin-right: 60%; background-color: white;}
 section h2{text-decoration: underline;}
-footer {margin-right: 85%;background-color: white ;}
-image {width: 300px; 
-    height: auto; 
+footer {margin-right: 85%;background-color: orange ;}
+ section img{width: 400px; 
+    margin-top: 20px;
+    height: 300px;; 
     border: 1px solid #ddd;}
