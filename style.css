@@ -1,3 +1,12 @@
 body {
-    background: rgb(239, 239, 240);
+    background: rgb(158, 197, 209);
   }
+
+header h1 {text-align: center; font-size: xx-large;text-decoration: underline;}
+header p {text-align:center; color: firebrick;font-size: x-large}
+section {text-align: left;margin-right: 60%;}
+section h2{text-decoration: underline;}
+footer {margin-right: 85%;background-color: white ;}
+image {width: 300px; 
+    height: auto; 
+    border: 1px solid #ddd;}
